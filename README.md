@@ -1,10 +1,11 @@
 # nuhud-edit
-My edit of nuhud
+Edit of nuhud made by Mystic Prism Studio
 
 # Features
 * Most features are same with nuhud
 * New main menu backgrounds
-* Raleway Font Support
+* New Font Support - Raleway
+* Much cleaner HUD
 
 # Credits
 * [n0kk](https://github.com/n0kk) - Author of [nuhud](https://github.com/n0kk/nuhud)
